@@ -1,6 +1,6 @@
 # MagMutual User API
 
-Spring Boot microservice for retrieving and searching user data from a CSV file.
+Spring Boot microservice for retrieving and searching user data
 
 ## Tech Stack
 
@@ -26,7 +26,7 @@ Spring Boot microservice for retrieving and searching user data from a CSV file.
     - country
     - city
 - Swagger UI
-- Centralized exception handling
+-   exception handling
 - Unit tests
 
 ## Project Questions
